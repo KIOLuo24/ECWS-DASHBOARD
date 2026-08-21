@@ -1,9 +1,4 @@
-diff --git a/src/styles.css b/src/styles.css
-new file mode 100644
-index 0000000000000000000000000000000000000000..f0dede2ed48508b20f8987326eb32d602a5b55bc
---- /dev/null
-+++ b/src/styles.css
-@@ -0,0 +1,14 @@
+
 +:root { color: #172033; background: #f5f7fb; font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif; }
 +* { box-sizing: border-box; } body { margin: 0; } main { padding: 32px; max-width: 1800px; margin: auto; }
 +header { background: linear-gradient(135deg,#172033,#246bfe); color: white; border-radius: 28px; padding: 34px; box-shadow: 0 20px 50px #17316c33; }
