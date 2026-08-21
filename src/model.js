@@ -1,9 +1,4 @@
-diff --git a/src/model.js b/src/model.js
-new file mode 100644
-index 0000000000000000000000000000000000000000..20c2f68a3cb957525b2e5e38ed45e408ecafc98a
---- /dev/null
-+++ b/src/model.js
-@@ -0,0 +1,53 @@
+
 +export function currency(value) {
 +  const abs = Math.abs(value || 0);
 +  const formatted = new Intl.NumberFormat('zh-CN', { style: 'currency', currency: 'CNY' }).format(abs);
