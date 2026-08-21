@@ -1,9 +1,4 @@
-diff --git a/src/main.js b/src/main.js
-new file mode 100644
-index 0000000000000000000000000000000000000000..1af7927c5c86bcc0d3b7e9f0f17fe916fbff4e12
---- /dev/null
-+++ b/src/main.js
-@@ -0,0 +1,63 @@
+
 +import { calculateDashboard, currency } from './model.js';
 +import './styles.css';
 +
