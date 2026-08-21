@@ -1,9 +1,4 @@
-diff --git a/test/model.test.js b/test/model.test.js
-new file mode 100644
-index 0000000000000000000000000000000000000000..8b60167546b06d4c707adb276be5791dd0412ad8
---- /dev/null
-+++ b/test/model.test.js
-@@ -0,0 +1,23 @@
+
 +import test from 'node:test';
 +import assert from 'node:assert/strict';
 +import { calculateDashboard, currency } from '../src/model.js';
